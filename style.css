@@ -82,3 +82,53 @@ body{
     border: #F52887;
     background-color: #f528881d;
 }
+.select{
+    color:#F52887;
+    border: #F52887;
+    background-color: #f528881d;
+}
+.card{
+    width:340px;
+    height:350px;
+    margin-right:15px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    padding:0 20px;
+    text-align: justify;
+  
+    
+}
+.plan-card{
+    width:1120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.food{
+    background-color: #4f9da62a;
+}
+.shelter{
+    background-color: #ff595924;
+}
+.education{
+    background-color:#ebc86875;
+}
+.donate-plan-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+}
+.donate-plan-text{
+    width:820px;
+    text-align: center;
+}
+.donate-plan-text-area{
+    display: flex;
+    justify-content: center;
+}
+#donate-plan{
+    margin:50px 0;
+}
