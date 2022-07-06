@@ -79,12 +79,12 @@ body{
 }
 .money:hover{
     color:#F52887;
-    border: #F52887;
+    
     background-color: #f528881d;
 }
 .select{
     color:#F52887;
-    border: #F52887;
+    border:2px solid #F52887;
     background-color: #f528881d;
 }
 .card{
