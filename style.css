@@ -38,3 +38,47 @@ body{
     border-radius: 10px;
     margin-top:20px
 }
+
+.money{
+    width:135px;
+    height:123px;
+    background-color:#FAFAFA;
+    margin:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#707070;
+    border-radius: 5px;
+    margin-top:20px;
+}
+.amount{
+    width:830px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#donate-amount{
+    text-align: center;
+    margin-top:60px
+}
+.amount-part{
+    display: flex;
+    justify-content: center;
+}
+.donate-text{
+    width:830px
+}
+.donate-text-center{
+    display: flex;
+    justify-content: center;
+}
+.amount-button-part{
+    margin:50px 0;
+
+}
+.money:hover{
+    color:#F52887;
+    border: #F52887;
+    background-color: #f528881d;
+}
