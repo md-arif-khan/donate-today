@@ -132,3 +132,38 @@ body{
 #donate-plan{
     margin:50px 0;
 }
+.getway{
+    width:1000px;
+    display: flex;
+}
+.bank{
+    width:300px;
+    height:300px;
+    background-color: #707070b6;
+    margin:10px;
+    text-align:center;
+    padding-top:15px;
+    -webkit-border-image: -webkit-gradient(linear, left top, left bottom, from(#00abeb), to(#fff), color-stop(0.5, #fff), color-stop(0.5, #66cc00)) 21 30 30 21 repeat repeat;
+
+}
+.bank img{
+    width:200px;
+    height:200px
+}
+.payment-button{
+    border:none;
+    width:150px;
+    height:50px;
+    color:white;
+    background-color: #F52887;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.payment-getway{
+    display: flex;
+    justify-content: center;
+}
+#payment-section{
+    margin:70px 0;
+}
