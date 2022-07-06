@@ -165,5 +165,74 @@ body{
     justify-content: center;
 }
 #payment-section{
-    margin:70px 0;
+    margin:40px 0;
+}
+.update-text{
+    width:700px;
+    text-align: center;
+}
+.update-text-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:30px
+}
+.input-box{
+    background-color:#FFF4D6;
+    width:800px;
+    height:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-area input{
+    border:none;
+    outline: none;
+    flex:1;
+    padding:5px 20px
+    
+}
+.form-area button{
+    border:none;
+    outline:none;
+    background-color:#F52887;
+    color:white;
+    padding:5px 20px;
+    font-weight: bold;
+}
+.form-area {
+    background-color:white;
+    height:40px;
+    width:350px;
+    display:flex;
+    border-radius:40px;
+}
+.input-container{
+    margin-bottom:60px
+}
+#footer{
+    background-color: #0B0D17;
+    height:160px;
+}
+.footer-text{
+    width:150px;
+}
+#footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h4{
+    margin:0;
+    font-weight: bold;
+}
+.title{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
 }
