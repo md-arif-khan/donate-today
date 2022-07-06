@@ -6,7 +6,7 @@ body{
 #header-banner{
   
   background: linear-gradient( transparent, rgb(0, 0, 0)),
-      url(../images/donation2.jpg);
+      url(images/bg.jpg);
   height:650px;
   background-position: center;
   background-repeat: no-repeat;
